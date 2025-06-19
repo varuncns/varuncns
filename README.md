@@ -35,12 +35,12 @@
 ### 🛠️ Tech Stack
 
 `Java 21` • `Spring Boot` • `Spring Security` • `Hibernate` • `JPA` • `MySQL`  
-`REST APIs` • `JWT Auth` • `Google Cloud Run` • `Cloud SQL` • `Docker`  
+`REST APIs` • `JWT Auth` • `Google Cloud Run` • `Cloud SQL` • `Docker` • `RabbitMQ`  
 `Swagger` • `Postman` • `GitHub` • `IntelliJ`  
 
 ---
 
-### 📦 Featured Project
+### 📦 Featured Projects
 
 #### 🛒 E-Commerce Backend API
 
@@ -48,6 +48,13 @@
 - Modules: Products, Cart, Orders, Address, Admin Insights
 - Deployed using **Docker** + **Google Cloud Run** + **Cloud SQL**
 - 📌 Repo: [github.com/varuncns/ecommerce-backend](https://github.com/varuncns/ecommerce-backend)
+
+#### 🔔 NotifyMe
+
+- Modern notification service to send real-time alerts and updates to users (placeholder, update with actual description if desired)
+- Designed for extensibility and integration with various channels (Email, SMS, Push, etc.)
+- Built using modern Java backend practices and RabbitMQ for messaging
+- 📌 Repo: [github.com/varuncns/notifyme](https://github.com/varuncns/notifyme)
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
