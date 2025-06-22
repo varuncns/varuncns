@@ -67,6 +67,9 @@
 
 #### 🔔 NotifyMe
 
+<p align="center">
+  <img src="notifyme.png" width="600" alt="E-Commerce Screenshot" />
+</p>
 - Real-time notification service delivering alerts through Email, SMS, and Push
 - Designed for easy integration and uses **RabbitMQ** for messaging
 - 📌 [github.com/varuncns/notifyme](https://github.com/varuncns/notifyme)
