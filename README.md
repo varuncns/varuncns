@@ -57,7 +57,7 @@
 #### 🛒 E-Commerce Backend API
 
 <p align="center">
-  <img src="cart.png" width="600" alt="E-Commerce Screenshot" />
+  <img src="cart.png" width="120" alt="E-Commerce Screenshot" />
 </p>
 
 - Built with `Spring Boot`, `MySQL`, `JWT`, and DTO-based architecture
@@ -68,7 +68,7 @@
 #### 🔔 NotifyMe
 
 <p align="center">
-  <img src="notifyme.png" width="600" alt="E-Commerce Screenshot" />
+  <img src="notifyme.png" width="120" alt="E-Commerce Screenshot" />
 </p>
 
 - Real-time notification service delivering alerts through Email, SMS, and Push
