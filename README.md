@@ -54,26 +54,42 @@
 
 ### 📦 Featured Projects
 
-#### 🛒 E-Commerce Backend API
+#### 🤖 GyaniBot
 
 <p align="center">
-  <img src="cart.png" width="120" alt="E-Commerce Screenshot" />
+  <img src="gyaniBot.png" width="120" alt="GyaniBot Screenshot" />
 </p>
 
-- Built with `Spring Boot`, `MySQL`, `JWT`, and DTO-based architecture
-- Modules: Products, Cart, Orders, Address, Admin Insights
-- Deployed via **Docker** and **Google Cloud Run**
-- 📌 [github.com/varuncns/ecommerce-backend](https://github.com/varuncns/ecommerce-backend)
+  - AI chat assistant built with `Spring AI`
+  - Integrates the `OpenAI API` for generating responses which is aware of previous context in chat.
+  - 📌 [github.com/varuncns/gyanibot](https://github.com/varuncns/gyanibot)
 
 #### 🔔 NotifyMe
 
 <p align="center">
-  <img src="notifyme.png" width="120" alt="E-Commerce Screenshot" />
+  <img src="notifyme.png" width="120" alt="NotifyMe Screenshot" />
 </p>
 
 - Real-time notification service delivering alerts through Email, SMS, and Push
 - Designed for easy integration and uses **RabbitMQ** for messaging
 - 📌 [github.com/varuncns/notifyme](https://github.com/varuncns/notifyme)
+
+#### 🛒 OneCartForEverything
+
+<p align="center">
+  <img src="cart.png" width="120" alt="OneCartForEverything Screenshot" />
+</p>
+
+- Built with `Spring Boot`, `MySQL`, `JWT`, and DTO-based architecture
+- Modules: Products, Cart, Orders, Address, Admin Insights
+- Deployed via **Docker** and **Google Cloud Run**
+- 📌 [github.com/varuncns/onecartforeverything](https://github.com/varuncns/onecartforeverything)
+
+#### 📚 DSAPrep
+
+- Repository of data structure and algorithm practice solutions
+- Includes code snippets and explanations for common interview questions
+- 📌 [github.com/varuncns/dsaprep](https://github.com/varuncns/dsaprep)
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coffee gif" />
