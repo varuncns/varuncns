@@ -60,9 +60,8 @@
   <img src="gyaniBot.png" width="120" alt="GyaniBot Screenshot" />
 </p>
 
-  - AI chat assistant built with `Spring Boot`
-  - Integrates the `OpenAI API` for generating responses
-  - Real-time conversation via `WebSocket`
+  - AI chat assistant built with `Spring AI`
+  - Integrates the `OpenAI API` for generating responses which is aware of previous context in chat.
   - 📌 [github.com/varuncns/gyanibot](https://github.com/varuncns/gyanibot)
 
 #### 🔔 NotifyMe
